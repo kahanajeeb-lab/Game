@@ -1,0 +1,6 @@
+{
+  "name": "Retro Dash",
+  "description": "Stealth arcade game interface concealing an end-to-end encrypted WhatsApp-style messenger with Firebase Realtime Database sync and ID connection management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
